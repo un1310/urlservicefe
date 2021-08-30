@@ -1,0 +1,4 @@
+NODE_ENV=local
+PUBLIC_URL=https://urlserviceassignment.herokuapp.com
+REACT_APP_AUTH_SERVER_BASE_URL=https://urlserviceassignment.herokuapp.com/url/user/login
+REACT_APP_BASE_URL=https://urlserviceassignment.herokuapp.com/url
